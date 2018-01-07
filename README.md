@@ -7,7 +7,7 @@ This bot gives your horoscope in plain text in various demands like as of today 
 ## Demo
  ![year](https://github.com/dvkcool/slack-horoscope-bot/blob/master/demo/year.gif?raw=true)
 
-##API used
+## API used
 
 Horoscope API Of [Tapasweni Pathak](https://github.com/tapasweni-pathak/Horoscope-API)
 
