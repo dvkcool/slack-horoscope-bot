@@ -98,10 +98,6 @@ Just a demo of how to invite and get first horoscope
 
 
 
-### To quit a game in between
-Just type  'quit' to abandon game.
-![quit](https://github.com/dvkcool/slack-tic-tac-toe-bot/blob/master/demo/gamequit.png?raw=true)
-
 
 Congratulations you have succesfully deployed the slack horoscope bot.
 
