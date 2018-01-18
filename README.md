@@ -36,7 +36,7 @@ Horoscope API Of [Tapasweni Pathak](https://github.com/tapasweni-pathak/Horoscop
 ### Getting the Hasura project
 
 ```sh
-$ hasura quickstart dvk/slack-horroscope-bot
+$ hasura quickstart dvk/slack-horoscope-bot
 $ cd slack-horoscope-bot
 # Add Slack API key to hasura secrets. 
 hasura secrets update SLACK_BOT_TOKEN.key  <Your Bot API KEY>
